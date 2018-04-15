@@ -1,0 +1,21 @@
+state,offense,juvenile_white,juvenile_black,juvenile_indian,juvenile_asian,juvenile_pacific_islander,juvenile_total,adult_white,adult_black,adult_indian,adult_asian,adult_pacific_islander,adult_total
+Arizona,Commercial sex acts,0,0,0,0,0,0,0,0,0,0,0,0
+Arizona,Involuntary servitude,0,0,0,0,0,0,2,1,0,0,0,3
+Guam,Commercial sex acts,0,0,0,0,0,0,0,0,0,0,0,0
+Guam,Involuntary servitude,0,0,0,0,1,1,0,0,0,0,0,0
+Indiana,Commercial sex acts,6,2,0,1,0,9,60,11,0,0,1,72
+Indiana,Involuntary servitude,17,2,0,0,0,19,1,0,0,3,0,4
+Minnesota,Commercial sex acts,0,2,0,0,0,2,11,18,0,1,0,30
+Minnesota,Involuntary servitude,0,0,0,0,0,0,0,0,0,0,0,0
+Missouri,Commercial sex acts,3,0,0,0,0,3,7,1,0,1,0,8
+Missouri,Involuntary servitude,0,0,0,0,0,0,6,3,0,0,0,9
+Mississippi,Commercial sex acts,0,0,0,0,0,0,1,0,0,0,0,1
+Mississippi,Involuntary servitude,0,3,0,0,0,3,0,0,0,0,0,0
+Ohio,Commercial sex acts,0,0,0,0,0,0,6,0,0,0,0,6
+Ohio,Involuntary servitude,0,0,0,0,0,0,0,0,0,0,0,0
+Texas,Commercial sex acts,19,16,0,0,0,35,567,98,0,1,0,666
+Texas,Involuntary servitude,34,3,0,0,0,37,20,5,0,0,0,25
+Utah,Commercial sex acts,0,0,0,0,0,0,0,0,0,0,0,0
+Utah,Involuntary servitude,0,0,0,0,0,0,11,0,0,0,0,11
+Wyoming,Commercial sex acts,1,0,0,0,0,1,0,0,0,0,0,0
+Wyoming,Involuntary servitude,0,0,0,0,0,0,2,0,0,0,0,2

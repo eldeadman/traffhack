@@ -1,0 +1,21 @@
+state,offense,Juvenile_male,Juvenile_female,Adult_male,Adult_female
+Arizona,Commercial sex acts,0,0,0,0
+Arizona,Involuntary servitude,0,0,3,0
+Guam,Commercial sex acts,0,0,0,0
+Guam,Involuntary servitude,1,0,0,0
+Indiana,Commercial sex acts,6,2,47,27
+Indiana,Involuntary servitude,8,11,2,2
+Minnesota,Commercial sex acts,1,1,25,5
+Minnesota,Involuntary servitude,0,0,0,0
+Missouri,Commercial sex acts,3,0,8,1
+Missouri,Involuntary servitude,0,0,4,5
+Mississippi,Commercial sex acts,3,0,1,0
+Mississippi,Involuntary servitude,2,4,0,0
+Ohio,Commercial sex acts,0,0,4,1
+Ohio,Involuntary servitude,0,0,0,0
+Texas,Commercial sex acts,5,30,513,153
+Texas,Involuntary servitude,13,24,18,7
+Utah,Commercial sex acts,0,0,0,0
+Utah,Involuntary servitude,0,0,10,1
+Wyoming,Commercial sex acts,0,1,0,0
+Wyoming,Involuntary servitude,0,0,0,0
